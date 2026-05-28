@@ -13,7 +13,7 @@ export default function Navbar() {
         {/* Nav Links */}
         <div className="hidden md:flex items-center gap-8">
           <a href="#" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">Home</a>
-          <a href="#how-it-works" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">How It Work</a>
+          <a href="#how-it-works" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">How It Works</a>
           <a href="#pricing" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">Pricing</a>
           <a href="#login" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">Login</a>
         </div>

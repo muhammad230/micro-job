@@ -32,7 +32,7 @@ export default function WhyChoose() {
         {/* Header */}
         <div className="text-center mb-14">
           <h2 className="text-4xl font-bold text-gray-900 mb-3">Why Choose MicroJobs?</h2>
-          <p className="text-gray-500 text-lg">The best platform for quick tasks</p>
+          <p className="text-gray-600 text-lg">The best platform for quick tasks</p>
         </div>
 
         {/* Feature Grid */}
@@ -43,7 +43,7 @@ export default function WhyChoose() {
                 {f.icon}
               </div>
               <h3 className="font-semibold text-gray-900 text-base mb-2">{f.title}</h3>
-              <p className="text-gray-500 text-sm leading-relaxed">{f.description}</p>
+              <p className="text-gray-600 text-sm leading-relaxed">{f.description}</p>
             </div>
           ))}
         </div>

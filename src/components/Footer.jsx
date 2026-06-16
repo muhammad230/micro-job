@@ -1,12 +1,12 @@
 export default function Footer() {
   return (
-    <footer className="bg-gray-800 text-gray-500 py-14 px-6">
+    <footer className="bg-gray-800 text-gray-600 py-14 px-6">
       <div className="max-w-6xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-10">
           {/* Brand */}
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-3">
-              <div className="w-8 h-8 bg-blue-700 rounded-lg flex items-center justify-center text-white font-bold text-sm">
+              <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-white font-bold text-sm">
                 M
               </div>
               <span className="text-white font-semibold text-lg">MicroJobs</span>

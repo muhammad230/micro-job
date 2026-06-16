@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="bg-blue-600 text-white py-24 px-6">
+    <section className="bg-blue-700 text-white py-24 px-6">
       <div className="max-w-4xl mx-auto text-center">
         {/* Headline */}
         <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
